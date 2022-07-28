@@ -106,5 +106,5 @@
 {"cell_type":"markdown","id":"f86fba","input":"### Numpy \\- For Scientific Computing in Python\n\nBelow, we will import the numpy module and use a few of its functions to show off this power. Numpy is a library which is coded outside of python, making it faster. It gives us access to better and more efficient lists\n\nFor any module you encounter, you should be prepared to <u>read the docs.</u> The \"docs\" are how we can learn to use each module, and you can find Numpy's here: [https://numpy.org/. ](https://numpy.org/)\n\n**For using modules, you'll want to import them like so below.**\n\n","pos":79,"type":"cell"}
 {"cell_type":"markdown","id":"f909f9","input":"First up, lists. you can create a list with the following code.","pos":28,"type":"cell"}
 {"cell_type":"markdown","id":"f935d6","input":"Next, we will look at how to make a list run a specific number of times.","pos":42,"type":"cell"}
-{"id":0,"time":1658770511160,"type":"user"}
-{"last_load":1658854578887,"type":"file"}
+{"id":0,"time":1658942004641,"type":"user"}
+{"last_load":1658942004846,"type":"file"}
